@@ -1,0 +1,190 @@
+{
+    "filters": [
+        {
+            "ident": "frame",
+            "label": "Gestell",
+            "hint": "<h1>Loremipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>",
+            "type": "checkbox-image",
+            "options": [
+                {
+                    "value": "frame|wood",
+                    "label": "Holz",
+                    "sublabel": "",
+                    "image": "/public/images/holz.jpg"
+                },
+                {
+                    "value": "frame|alu",
+                    "label": "Alu",
+                    "sublabel": "",
+                    "image": "/public/images/alu.jpg"
+                }
+            ]
+        },
+        {
+            "ident": "form",
+            "label": "Form und Grösse",
+            "hint": "<h1>Loremipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>",
+            "type": "checkbox-image",
+            "options": [
+                {
+                    "value": "round|200-300",
+                    "label": "Rund",
+                    "sublabel": "200-300cm",
+                    "image": "filter_form_round.svg"
+                },
+                {
+                    "value": "round|300-400",
+                    "label": "Rund",
+                    "sublabel": "300-400cm",
+                    "image": "filter_form_round.svg"
+                },
+                {
+                    "value": "round|400-800",
+                    "label": "Rund",
+                    "sublabel": "400-800cm",
+                    "image": "filter_form_round.svg"
+                },
+                {
+                    "value": "square|200-240",
+                    "label": "Quadratisch",
+                    "sublabel": "200x200-240x240",
+                    "image": "filter_form_square.svg"
+                },
+                {
+                    "value": "square|250-350",
+                    "label": "Quadratisch",
+                    "sublabel": "250x250-350x350",
+                    "image": "filter_form_square.svg"
+                },
+                {
+                    "value": "square|350-700",
+                    "label": "Quadratisch",
+                    "sublabel": "350x350-700x700",
+                    "image": "filter_form_square.svg"
+                },
+                {
+                    "value": "rect|210-250",
+                    "label": "Rechteckig",
+                    "sublabel": "210x150-250x200",
+                    "image": "filter_form_rect.svg"
+                },
+                {
+                    "value": "rect|285-400",
+                    "label": "Rechteckig",
+                    "sublabel": "285x200-400x300",
+                    "image": "filter_form_rect.svg"
+                },
+                {
+                    "value": "rect|400-800",
+                    "label": "Rechteckig",
+                    "sublabel": "400x300-800x600",
+                    "image": "filter_form_rect.svg"
+                }
+            ]
+        },
+        {
+            "ident": "type",
+            "label": "Typ",
+            "hint": "<h1>Loremipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>",
+            "type": "checkbox-image",
+            "options": [
+                {
+                    "value": "type|middle",
+                    "label": "Mittelstock",
+                    "sublabel": "",
+                    "image": "/public/images/mittelstock.jpg"
+                },
+                {
+                    "value": "type|side",
+                    "label": "Seitenmast",
+                    "sublabel": "",
+                    "image": "/public/images/seitenmast.jpg"
+                }
+            ]
+        },
+        {
+            "ident": "mounting",
+            "label": "Befestigung",
+            "hint": "<h1>Loremipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>",
+            "type": "checkbox-icon2",
+            "options": [
+                {
+                    "value": "mounting|roll",
+                    "label": "Rollsockel",
+                    "sublabel": "",
+                    "image": "filter_mounting_roll.svg"
+                },
+                {
+                    "value": "mounting|base",
+                    "label": "Sockel",
+                    "sublabel": "",
+                    "image": "filter_mounting_base.svg"
+                },
+                {
+                    "value": "mounting|ground",
+                    "label": "Bodenhülse",
+                    "sublabel": "",
+                    "image": "filter_mounting_ground.svg"
+                },
+                {
+                    "value": "mounting|plate",
+                    "label": "Montageplatte",
+                    "sublabel": "",
+                    "image": "filter_mounting_plate.svg"
+                },
+                {
+                    "value": "mounting|wall",
+                    "label": "Mauerkonsole",
+                    "sublabel": "",
+                    "image": "filter_mounting_wall.svg"
+                },
+                {
+                    "value": "mounting|spike",
+                    "label": "Rasendorn",
+                    "sublabel": "",
+                    "image": "filter_mounting_spike.svg"
+                },
+                {
+                    "value": "mounting|balcony",
+                    "label": "Balkonbride",
+                    "sublabel": "",
+                    "image": "filter_mounting_balcony.svg"
+                }
+            ]
+        },
+        {
+            "ident": "price",
+            "label": "Budget",
+            "hint": "<h1>Loremipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>",
+            "type": "slider",
+            "min": 159.0,
+            "max": 8000.0
+        },
+        {
+            "ident": "options",
+            "label": "Zusatzoptionen",
+            "hint": "<h1>Loremipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>",
+            "type": "checkbox-icon2",
+            "options": [
+                {
+                    "value": "options|led",
+                    "label": "Integrierte LED Beleuchtung",
+                    "sublabel": "",
+                    "image": "filter_options_led.svg"
+                },
+                {
+                    "value": "options|volant",
+                    "label": "Überzug mit Volant",
+                    "sublabel": "",
+                    "image": "filter_options_volant.svg"
+                }
+            ]
+        }
+    ],
+    "i18n": {
+        "headline": "Willkommen",
+        "title": "Gestalten Sie Ihren Glatz Sonnenschirm",
+        "btn_reset": "zurücksetzten",
+        "btn_submit": "12 Modele anzeigen"
+    }
+}
