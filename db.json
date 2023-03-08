@@ -10,13 +10,13 @@
                     "value": "frame|wood",
                     "label": "Holz",
                     "sublabel": "",
-                    "image": "/public/images/holz.jpg"
+                    "image": "images/holz.jpg"
                 },
                 {
                     "value": "frame|alu",
                     "label": "Alu",
                     "sublabel": "",
-                    "image": "/public/images/alu.jpg"
+                    "image": "images/alu.jpg"
                 }
             ]
         },
@@ -92,13 +92,13 @@
                     "value": "type|middle",
                     "label": "Mittelstock",
                     "sublabel": "",
-                    "image": "/public/images/mittelstock.jpg"
+                    "image": "images/mittelstock.jpg"
                 },
                 {
                     "value": "type|side",
                     "label": "Seitenmast",
                     "sublabel": "",
-                    "image": "/public/images/seitenmast.jpg"
+                    "image": "images/seitenmast.jpg"
                 }
             ]
         },
